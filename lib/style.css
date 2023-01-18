@@ -15,7 +15,7 @@ a:after {
     content: '';
     position: absolute;
     z-index: -1;
-    background-color: #ffa5a7;
+    background-color: #caff85;
 
     top: 66%;
     bottom: 0;
@@ -30,4 +30,12 @@ a:after {
 .projects > h1 {
     font-size: 2em;
     font-weight: normal;
+}
+
+.projects > div {
+    padding-bottom: 4em;
+}
+
+.projects > div > h1 {
+    font-size: 1.6em;
 }
